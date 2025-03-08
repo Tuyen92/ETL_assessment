@@ -1,4 +1,4 @@
-I implemented fastAPI to build the API for fetching data of the commits from repository airflow (https://github.com/apache/airflow) in the last 6 month, and handle to get the data from database.
+I implemented fastAPI to build the API for fetching data of the commits from repository airflow (https://github.com/apache/airflow) in the last 6 month, and getting the data from database.
 I use MySQL to store the database.
 
 Table design
